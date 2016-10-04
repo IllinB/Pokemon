@@ -1,0 +1,3109 @@
+{
+"Muk" : {
+"Defence" : 75,
+"Attack" : 105,
+"Special Attack" : 65,
+"HP" : 105,
+"Evolutions" : [
+
+],
+"Special Defence" : 100,
+"Number" : 89,
+"Speed" : 50
+},
+"Misdreavus" : {
+"Defence" : 60,
+"Attack" : 60,
+"Special Attack" : 85,
+"HP" : 60,
+"Evolutions" : [
+
+],
+"Special Defence" : 85,
+"Number" : 200,
+"Speed" : 85
+},
+"Golduck" : {
+"Defence" : 78,
+"Attack" : 82,
+"Special Attack" : 95,
+"HP" : 80,
+"Evolutions" : [
+
+],
+"Special Defence" : 80,
+"Number" : 55,
+"Speed" : 85
+},
+"Smoochum" : {
+"Defence" : 15,
+"Attack" : 30,
+"Special Attack" : 85,
+"HP" : 45,
+"Evolutions" : [
+"Jynx"
+],
+"Special Defence" : 65,
+"Number" : 238,
+"Speed" : 65
+},
+"Mantine" : {
+"Defence" : 70,
+"Attack" : 40,
+"Special Attack" : 80,
+"HP" : 65,
+"Evolutions" : [
+
+],
+"Special Defence" : 140,
+"Number" : 226,
+"Speed" : 70
+},
+"Gastly" : {
+"Defence" : 30,
+"Attack" : 35,
+"Special Attack" : 100,
+"HP" : 30,
+"Evolutions" : [
+"Haunter"
+],
+"Special Defence" : 35,
+"Number" : 92,
+"Speed" : 80
+},
+"Dewgong" : {
+"Defence" : 80,
+"Attack" : 70,
+"Special Attack" : 70,
+"HP" : 90,
+"Evolutions" : [
+
+],
+"Special Defence" : 95,
+"Number" : 87,
+"Speed" : 70
+},
+"Pidgey" : {
+"Defence" : 40,
+"Attack" : 45,
+"Special Attack" : 35,
+"HP" : 40,
+"Evolutions" : [
+"Pidgeotto"
+],
+"Special Defence" : 35,
+"Number" : 16,
+"Speed" : 56
+},
+"Entei" : {
+"Defence" : 85,
+"Attack" : 115,
+"Special Attack" : 90,
+"HP" : 115,
+"Evolutions" : [
+
+],
+"Special Defence" : 75,
+"Number" : 244,
+"Speed" : 100
+},
+"Skiploom" : {
+"Defence" : 50,
+"Attack" : 45,
+"Special Attack" : 45,
+"HP" : 55,
+"Evolutions" : [
+"Jumpluff"
+],
+"Special Defence" : 65,
+"Number" : 188,
+"Speed" : 80
+},
+"Wobbuffet" : {
+"Defence" : 58,
+"Attack" : 33,
+"Special Attack" : 33,
+"HP" : 190,
+"Evolutions" : [
+
+],
+"Special Defence" : 58,
+"Number" : 202,
+"Speed" : 33
+},
+"Clefairy" : {
+"Defence" : 48,
+"Attack" : 45,
+"Special Attack" : 60,
+"HP" : 70,
+"Evolutions" : [
+"Clefable"
+],
+"Special Defence" : 65,
+"Number" : 35,
+"Speed" : 35
+},
+"Lickitung" : {
+"Defence" : 75,
+"Attack" : 55,
+"Special Attack" : 60,
+"HP" : 90,
+"Evolutions" : [
+
+],
+"Special Defence" : 75,
+"Number" : 108,
+"Speed" : 30
+},
+"Weezing" : {
+"Defence" : 120,
+"Attack" : 90,
+"Special Attack" : 85,
+"HP" : 65,
+"Evolutions" : [
+
+],
+"Special Defence" : 70,
+"Number" : 110,
+"Speed" : 60
+},
+"Wooper" : {
+"Defence" : 45,
+"Attack" : 45,
+"Special Attack" : 25,
+"HP" : 55,
+"Evolutions" : [
+"Quagsire"
+],
+"Special Defence" : 25,
+"Number" : 194,
+"Speed" : 15
+},
+"Lugia" : {
+"Defence" : 130,
+"Attack" : 90,
+"Special Attack" : 90,
+"HP" : 106,
+"Evolutions" : [
+
+],
+"Special Defence" : 154,
+"Number" : 249,
+"Speed" : 110
+},
+"Shellder" : {
+"Defence" : 100,
+"Attack" : 65,
+"Special Attack" : 45,
+"HP" : 30,
+"Evolutions" : [
+"Cloyster"
+],
+"Special Defence" : 25,
+"Number" : 90,
+"Speed" : 40
+},
+"Metapod" : {
+"Defence" : 55,
+"Attack" : 20,
+"Special Attack" : 25,
+"HP" : 50,
+"Evolutions" : [
+"Butterfree"
+],
+"Special Defence" : 25,
+"Number" : 11,
+"Speed" : 30
+},
+"Poliwag" : {
+"Defence" : 40,
+"Attack" : 50,
+"Special Attack" : 40,
+"HP" : 40,
+"Evolutions" : [
+"Poliwhirl"
+],
+"Special Defence" : 40,
+"Number" : 60,
+"Speed" : 90
+},
+"Raticate" : {
+"Defence" : 60,
+"Attack" : 81,
+"Special Attack" : 50,
+"HP" : 55,
+"Evolutions" : [
+
+],
+"Special Defence" : 70,
+"Number" : 20,
+"Speed" : 97
+},
+"Aerodactyl" : {
+"Defence" : 65,
+"Attack" : 105,
+"Special Attack" : 60,
+"HP" : 80,
+"Evolutions" : [
+
+],
+"Special Defence" : 75,
+"Number" : 142,
+"Speed" : 130
+},
+"Charizard" : {
+"Defence" : 78,
+"Attack" : 84,
+"Special Attack" : 109,
+"HP" : 78,
+"Evolutions" : [
+
+],
+"Special Defence" : 85,
+"Number" : 6,
+"Speed" : 100
+},
+"Litwick" : {
+"Defence" : 55,
+"Attack" : 30,
+"Special Attack" : 65,
+"HP" : 50,
+"Evolutions" : [
+"Lampent"
+],
+"Special Defence" : 55,
+"Number" : 607,
+"Speed" : 20
+},
+"Growlithe" : {
+"Defence" : 45,
+"Attack" : 70,
+"Special Attack" : 70,
+"HP" : 55,
+"Evolutions" : [
+"Arcanine"
+],
+"Special Defence" : 50,
+"Number" : 58,
+"Speed" : 60
+},
+"Zubat" : {
+"Defence" : 35,
+"Attack" : 45,
+"Special Attack" : 30,
+"HP" : 40,
+"Evolutions" : [
+"Golbat"
+],
+"Special Defence" : 40,
+"Number" : 41,
+"Speed" : 55
+},
+"Cleffa" : {
+"Defence" : 28,
+"Attack" : 25,
+"Special Attack" : 45,
+"HP" : 50,
+"Evolutions" : [
+"Clefairy"
+],
+"Special Defence" : 55,
+"Number" : 173,
+"Speed" : 15
+},
+"Nidoking" : {
+"Defence" : 77,
+"Attack" : 102,
+"Special Attack" : 85,
+"HP" : 81,
+"Evolutions" : [
+
+],
+"Special Defence" : 75,
+"Number" : 34,
+"Speed" : 85
+},
+"Jumpluff" : {
+"Defence" : 70,
+"Attack" : 55,
+"Special Attack" : 55,
+"HP" : 75,
+"Evolutions" : [
+
+],
+"Special Defence" : 95,
+"Number" : 189,
+"Speed" : 110
+},
+"Magnemite" : {
+"Defence" : 70,
+"Attack" : 35,
+"Special Attack" : 95,
+"HP" : 25,
+"Evolutions" : [
+"Magneton"
+],
+"Special Defence" : 55,
+"Number" : 81,
+"Speed" : 45
+},
+"Jolteon" : {
+"Defence" : 60,
+"Attack" : 65,
+"Special Attack" : 110,
+"HP" : 65,
+"Evolutions" : [
+
+],
+"Special Defence" : 95,
+"Number" : 135,
+"Speed" : 130
+},
+"Espeon" : {
+"Defence" : 60,
+"Attack" : 65,
+"Special Attack" : 130,
+"HP" : 65,
+"Evolutions" : [
+
+],
+"Special Defence" : 95,
+"Number" : 196,
+"Speed" : 110
+},
+"Manaphy" : {
+"Defence" : 100,
+"Attack" : 100,
+"Special Attack" : 100,
+"HP" : 100,
+"Evolutions" : [
+
+],
+"Special Defence" : 100,
+"Number" : 490,
+"Speed" : 100
+},
+"Jigglypuff" : {
+"Defence" : 20,
+"Attack" : 45,
+"Special Attack" : 45,
+"HP" : 115,
+"Evolutions" : [
+"Wigglytuff"
+],
+"Special Defence" : 25,
+"Number" : 39,
+"Speed" : 20
+},
+"Parasect" : {
+"Defence" : 80,
+"Attack" : 95,
+"Special Attack" : 60,
+"HP" : 60,
+"Evolutions" : [
+
+],
+"Special Defence" : 80,
+"Number" : 47,
+"Speed" : 30
+},
+"Chansey" : {
+"Defence" : 5,
+"Attack" : 5,
+"Special Attack" : 35,
+"HP" : 250,
+"Evolutions" : [
+"Blissey"
+],
+"Special Defence" : 105,
+"Number" : 113,
+"Speed" : 50
+},
+"Sneasel" : {
+"Defence" : 55,
+"Attack" : 95,
+"Special Attack" : 35,
+"HP" : 55,
+"Evolutions" : [
+
+],
+"Special Defence" : 75,
+"Number" : 215,
+"Speed" : 115
+},
+"Butterfree" : {
+"Defence" : 50,
+"Attack" : 45,
+"Special Attack" : 90,
+"HP" : 60,
+"Evolutions" : [
+
+],
+"Special Defence" : 80,
+"Number" : 12,
+"Speed" : 70
+},
+"Mr. Mime" : {
+"Defence" : 65,
+"Attack" : 45,
+"Special Attack" : 100,
+"HP" : 40,
+"Evolutions" : [
+
+],
+"Special Defence" : 120,
+"Number" : 122,
+"Speed" : 90
+},
+"Articuno" : {
+"Defence" : 100,
+"Attack" : 85,
+"Special Attack" : 95,
+"HP" : 90,
+"Evolutions" : [
+
+],
+"Special Defence" : 125,
+"Number" : 144,
+"Speed" : 85
+},
+"Houndour" : {
+"Defence" : 30,
+"Attack" : 60,
+"Special Attack" : 80,
+"HP" : 45,
+"Evolutions" : [
+"Houndoom"
+],
+"Special Defence" : 50,
+"Number" : 228,
+"Speed" : 65
+},
+"Moltres" : {
+"Defence" : 90,
+"Attack" : 100,
+"Special Attack" : 125,
+"HP" : 90,
+"Evolutions" : [
+
+],
+"Special Defence" : 85,
+"Number" : 146,
+"Speed" : 90
+},
+"Pidgeotto" : {
+"Defence" : 55,
+"Attack" : 60,
+"Special Attack" : 50,
+"HP" : 63,
+"Evolutions" : [
+"Pidgeot"
+],
+"Special Defence" : 50,
+"Number" : 17,
+"Speed" : 71
+},
+"Elekid" : {
+"Defence" : 37,
+"Attack" : 63,
+"Special Attack" : 65,
+"HP" : 45,
+"Evolutions" : [
+"Electabuzz"
+],
+"Special Defence" : 55,
+"Number" : 239,
+"Speed" : 95
+},
+"Porygon2" : {
+"Defence" : 90,
+"Attack" : 80,
+"Special Attack" : 105,
+"HP" : 85,
+"Evolutions" : [
+
+],
+"Special Defence" : 95,
+"Number" : 233,
+"Speed" : 60
+},
+"Cloyster" : {
+"Defence" : 180,
+"Attack" : 95,
+"Special Attack" : 85,
+"HP" : 50,
+"Evolutions" : [
+
+],
+"Special Defence" : 45,
+"Number" : 91,
+"Speed" : 70
+},
+"Totodile" : {
+"Defence" : 64,
+"Attack" : 65,
+"Special Attack" : 44,
+"HP" : 50,
+"Evolutions" : [
+"Croconaw"
+],
+"Special Defence" : 48,
+"Number" : 158,
+"Speed" : 43
+},
+"Sandslash" : {
+"Defence" : 110,
+"Attack" : 100,
+"Special Attack" : 45,
+"HP" : 75,
+"Evolutions" : [
+
+],
+"Special Defence" : 55,
+"Number" : 28,
+"Speed" : 65
+},
+"Scyther" : {
+"Defence" : 80,
+"Attack" : 110,
+"Special Attack" : 55,
+"HP" : 70,
+"Evolutions" : [
+"Scizor"
+],
+"Special Defence" : 80,
+"Number" : 123,
+"Speed" : 105
+},
+"Chandelure" : {
+"Defence" : 90,
+"Attack" : 55,
+"Special Attack" : 145,
+"HP" : 60,
+"Evolutions" : [
+
+],
+"Special Defence" : 90,
+"Number" : 609,
+"Speed" : 80
+},
+"Golbat" : {
+"Defence" : 70,
+"Attack" : 80,
+"Special Attack" : 65,
+"HP" : 75,
+"Evolutions" : [
+"Crobat"
+],
+"Special Defence" : 75,
+"Number" : 42,
+"Speed" : 90
+},
+"Ekans" : {
+"Defence" : 44,
+"Attack" : 60,
+"Special Attack" : 40,
+"HP" : 35,
+"Evolutions" : [
+"Arbok"
+],
+"Special Defence" : 54,
+"Number" : 23,
+"Speed" : 55
+},
+"Seaking" : {
+"Defence" : 65,
+"Attack" : 92,
+"Special Attack" : 65,
+"HP" : 80,
+"Evolutions" : [
+
+],
+"Special Defence" : 80,
+"Number" : 119,
+"Speed" : 68
+},
+"Xatu" : {
+"Defence" : 70,
+"Attack" : 75,
+"Special Attack" : 95,
+"HP" : 65,
+"Evolutions" : [
+
+],
+"Special Defence" : 70,
+"Number" : 178,
+"Speed" : 95
+},
+"Ursaring" : {
+"Defence" : 75,
+"Attack" : 130,
+"Special Attack" : 75,
+"HP" : 90,
+"Evolutions" : [
+
+],
+"Special Defence" : 75,
+"Number" : 217,
+"Speed" : 55
+},
+"Slowpoke" : {
+"Defence" : 65,
+"Attack" : 65,
+"Special Attack" : 40,
+"HP" : 90,
+"Evolutions" : [
+"Slowking",
+"Slowbro"
+],
+"Special Defence" : 40,
+"Number" : 79,
+"Speed" : 15
+},
+"Haunter" : {
+"Defence" : 45,
+"Attack" : 50,
+"Special Attack" : 115,
+"HP" : 45,
+"Evolutions" : [
+"Gengar"
+],
+"Special Defence" : 55,
+"Number" : 93,
+"Speed" : 95
+},
+"Venomoth" : {
+"Defence" : 60,
+"Attack" : 65,
+"Special Attack" : 90,
+"HP" : 70,
+"Evolutions" : [
+
+],
+"Special Defence" : 75,
+"Number" : 49,
+"Speed" : 90
+},
+"Hitmonchan" : {
+"Defence" : 79,
+"Attack" : 105,
+"Special Attack" : 35,
+"HP" : 50,
+"Evolutions" : [
+
+],
+"Special Defence" : 110,
+"Number" : 107,
+"Speed" : 76
+},
+"Caterpie" : {
+"Defence" : 35,
+"Attack" : 30,
+"Special Attack" : 20,
+"HP" : 45,
+"Evolutions" : [
+"Metapod"
+],
+"Special Defence" : 20,
+"Number" : 10,
+"Speed" : 45
+},
+"Typhlosion" : {
+"Defence" : 78,
+"Attack" : 84,
+"Special Attack" : 109,
+"HP" : 78,
+"Evolutions" : [
+
+],
+"Special Defence" : 85,
+"Number" : 157,
+"Speed" : 100
+},
+"Celebi" : {
+"Defence" : 100,
+"Attack" : 100,
+"Special Attack" : 100,
+"HP" : 100,
+"Evolutions" : [
+
+],
+"Special Defence" : 100,
+"Number" : 251,
+"Speed" : 100
+},
+"Glaceon" : {
+"Defence" : 110,
+"Attack" : 60,
+"Special Attack" : 130,
+"HP" : 65,
+"Evolutions" : [
+
+],
+"Special Defence" : 95,
+"Number" : 471,
+"Speed" : 65
+},
+"Squirtle" : {
+"Defence" : 65,
+"Attack" : 48,
+"Special Attack" : 50,
+"HP" : 44,
+"Evolutions" : [
+"Wartortle"
+],
+"Special Defence" : 64,
+"Number" : 7,
+"Speed" : 43
+},
+"Hitmontop" : {
+"Defence" : 95,
+"Attack" : 95,
+"Special Attack" : 35,
+"HP" : 50,
+"Evolutions" : [
+
+],
+"Special Defence" : 110,
+"Number" : 237,
+"Speed" : 70
+},
+"Croconaw" : {
+"Defence" : 80,
+"Attack" : 80,
+"Special Attack" : 59,
+"HP" : 65,
+"Evolutions" : [
+"Feraligatr"
+],
+"Special Defence" : 63,
+"Number" : 159,
+"Speed" : 58
+},
+"Magikarp" : {
+"Defence" : 55,
+"Attack" : 10,
+"Special Attack" : 15,
+"HP" : 20,
+"Evolutions" : [
+"Gyarados"
+],
+"Special Defence" : 20,
+"Number" : 129,
+"Speed" : 80
+},
+"Dugtrio" : {
+"Defence" : 50,
+"Attack" : 80,
+"Special Attack" : 50,
+"HP" : 35,
+"Evolutions" : [
+
+],
+"Special Defence" : 70,
+"Number" : 51,
+"Speed" : 120
+},
+"Poliwrath" : {
+"Defence" : 95,
+"Attack" : 95,
+"Special Attack" : 70,
+"HP" : 90,
+"Evolutions" : [
+
+],
+"Special Defence" : 90,
+"Number" : 62,
+"Speed" : 70
+},
+"Mareep" : {
+"Defence" : 40,
+"Attack" : 40,
+"Special Attack" : 65,
+"HP" : 55,
+"Evolutions" : [
+"Flaaffy"
+],
+"Special Defence" : 45,
+"Number" : 179,
+"Speed" : 35
+},
+"Wartortle" : {
+"Defence" : 80,
+"Attack" : 63,
+"Special Attack" : 65,
+"HP" : 59,
+"Evolutions" : [
+"Blastoise"
+],
+"Special Defence" : 80,
+"Number" : 8,
+"Speed" : 58
+},
+"Forretress" : {
+"Defence" : 140,
+"Attack" : 90,
+"Special Attack" : 60,
+"HP" : 75,
+"Evolutions" : [
+
+],
+"Special Defence" : 60,
+"Number" : 205,
+"Speed" : 40
+},
+"Gengar" : {
+"Defence" : 60,
+"Attack" : 65,
+"Special Attack" : 130,
+"HP" : 60,
+"Evolutions" : [
+
+],
+"Special Defence" : 75,
+"Number" : 94,
+"Speed" : 110
+},
+"Teddiursa" : {
+"Defence" : 50,
+"Attack" : 80,
+"Special Attack" : 50,
+"HP" : 60,
+"Evolutions" : [
+"Ursaring"
+],
+"Special Defence" : 50,
+"Number" : 216,
+"Speed" : 40
+},
+"Cubone" : {
+"Defence" : 95,
+"Attack" : 50,
+"Special Attack" : 40,
+"HP" : 50,
+"Evolutions" : [
+"Marowak"
+],
+"Special Defence" : 50,
+"Number" : 104,
+"Speed" : 35
+},
+"Fearow" : {
+"Defence" : 65,
+"Attack" : 90,
+"Special Attack" : 61,
+"HP" : 65,
+"Evolutions" : [
+
+],
+"Special Defence" : 61,
+"Number" : 22,
+"Speed" : 100
+},
+"Venonat" : {
+"Defence" : 50,
+"Attack" : 55,
+"Special Attack" : 40,
+"HP" : 60,
+"Evolutions" : [
+"Venomoth"
+],
+"Special Defence" : 55,
+"Number" : 48,
+"Speed" : 45
+},
+"Tyranitar" : {
+"Defence" : 110,
+"Attack" : 134,
+"Special Attack" : 95,
+"HP" : 100,
+"Evolutions" : [
+
+],
+"Special Defence" : 100,
+"Number" : 248,
+"Speed" : 61
+},
+"Poliwhirl" : {
+"Defence" : 65,
+"Attack" : 65,
+"Special Attack" : 50,
+"HP" : 65,
+"Evolutions" : [
+"Poliwrath",
+"Politoed"
+],
+"Special Defence" : 50,
+"Number" : 61,
+"Speed" : 90
+},
+"Tentacruel" : {
+"Defence" : 65,
+"Attack" : 70,
+"Special Attack" : 80,
+"HP" : 80,
+"Evolutions" : [
+
+],
+"Special Defence" : 120,
+"Number" : 73,
+"Speed" : 100
+},
+"Weepinbell" : {
+"Defence" : 50,
+"Attack" : 90,
+"Special Attack" : 85,
+"HP" : 65,
+"Evolutions" : [
+"Victreebel"
+],
+"Special Defence" : 45,
+"Number" : 70,
+"Speed" : 55
+},
+"Feraligatr" : {
+"Defence" : 100,
+"Attack" : 105,
+"Special Attack" : 79,
+"HP" : 85,
+"Evolutions" : [
+
+],
+"Special Defence" : 83,
+"Number" : 160,
+"Speed" : 78
+},
+"Phanpy" : {
+"Defence" : 60,
+"Attack" : 60,
+"Special Attack" : 40,
+"HP" : 90,
+"Evolutions" : [
+"Donphan"
+],
+"Special Defence" : 40,
+"Number" : 231,
+"Speed" : 40
+},
+"Ho-Oh" : {
+"Defence" : 90,
+"Attack" : 130,
+"Special Attack" : 110,
+"HP" : 106,
+"Evolutions" : [
+
+],
+"Special Defence" : 154,
+"Number" : 250,
+"Speed" : 90
+},
+"Machamp" : {
+"Defence" : 80,
+"Attack" : 130,
+"Special Attack" : 65,
+"HP" : 90,
+"Evolutions" : [
+
+],
+"Special Defence" : 85,
+"Number" : 68,
+"Speed" : 55
+},
+"Porygon" : {
+"Defence" : 70,
+"Attack" : 60,
+"Special Attack" : 85,
+"HP" : 65,
+"Evolutions" : [
+"Porygon2"
+],
+"Special Defence" : 75,
+"Number" : 137,
+"Speed" : 40
+},
+"Seadra" : {
+"Defence" : 95,
+"Attack" : 65,
+"Special Attack" : 95,
+"HP" : 55,
+"Evolutions" : [
+"Kingdra"
+],
+"Special Defence" : 45,
+"Number" : 117,
+"Speed" : 85
+},
+"Blissey" : {
+"Defence" : 10,
+"Attack" : 10,
+"Special Attack" : 75,
+"HP" : 255,
+"Evolutions" : [
+
+],
+"Special Defence" : 135,
+"Number" : 242,
+"Speed" : 55
+},
+"Charmander" : {
+"Defence" : 43,
+"Attack" : 52,
+"Special Attack" : 60,
+"HP" : 39,
+"Evolutions" : [
+"Charmeleon"
+],
+"Special Defence" : 50,
+"Number" : 4,
+"Speed" : 65
+},
+"Nidorino" : {
+"Defence" : 57,
+"Attack" : 72,
+"Special Attack" : 55,
+"HP" : 61,
+"Evolutions" : [
+"Nidoking"
+],
+"Special Defence" : 55,
+"Number" : 33,
+"Speed" : 65
+},
+"Snubbull" : {
+"Defence" : 50,
+"Attack" : 80,
+"Special Attack" : 40,
+"HP" : 60,
+"Evolutions" : [
+"Granbull"
+],
+"Special Defence" : 40,
+"Number" : 209,
+"Speed" : 30
+},
+"Piloswine" : {
+"Defence" : 80,
+"Attack" : 100,
+"Special Attack" : 60,
+"HP" : 100,
+"Evolutions" : [
+
+],
+"Special Defence" : 60,
+"Number" : 221,
+"Speed" : 50
+},
+"Chinchou" : {
+"Defence" : 38,
+"Attack" : 38,
+"Special Attack" : 56,
+"HP" : 75,
+"Evolutions" : [
+"Lanturn"
+],
+"Special Defence" : 56,
+"Number" : 170,
+"Speed" : 67
+},
+"Voltorb" : {
+"Defence" : 50,
+"Attack" : 30,
+"Special Attack" : 55,
+"HP" : 40,
+"Evolutions" : [
+"Electrode"
+],
+"Special Defence" : 55,
+"Number" : 100,
+"Speed" : 100
+},
+"Kingdra" : {
+"Defence" : 95,
+"Attack" : 95,
+"Special Attack" : 95,
+"HP" : 75,
+"Evolutions" : [
+
+],
+"Special Defence" : 95,
+"Number" : 230,
+"Speed" : 85
+},
+"Lanturn" : {
+"Defence" : 58,
+"Attack" : 58,
+"Special Attack" : 76,
+"HP" : 125,
+"Evolutions" : [
+
+],
+"Special Defence" : 76,
+"Number" : 171,
+"Speed" : 67
+},
+"Machoke" : {
+"Defence" : 70,
+"Attack" : 100,
+"Special Attack" : 50,
+"HP" : 80,
+"Evolutions" : [
+"Machamp"
+],
+"Special Defence" : 60,
+"Number" : 67,
+"Speed" : 45
+},
+"Sentret" : {
+"Defence" : 34,
+"Attack" : 46,
+"Special Attack" : 35,
+"HP" : 35,
+"Evolutions" : [
+"Furret"
+],
+"Special Defence" : 45,
+"Number" : 161,
+"Speed" : 20
+},
+"Staryu" : {
+"Defence" : 55,
+"Attack" : 45,
+"Special Attack" : 70,
+"HP" : 30,
+"Evolutions" : [
+"Starmie"
+],
+"Special Defence" : 55,
+"Number" : 120,
+"Speed" : 85
+},
+"Psyduck" : {
+"Defence" : 48,
+"Attack" : 52,
+"Special Attack" : 65,
+"HP" : 50,
+"Evolutions" : [
+"Golduck"
+],
+"Special Defence" : 50,
+"Number" : 54,
+"Speed" : 55
+},
+"Remoraid" : {
+"Defence" : 35,
+"Attack" : 65,
+"Special Attack" : 65,
+"HP" : 35,
+"Evolutions" : [
+"Octillery"
+],
+"Special Defence" : 35,
+"Number" : 223,
+"Speed" : 65
+},
+"Hitmonlee" : {
+"Defence" : 53,
+"Attack" : 120,
+"Special Attack" : 35,
+"HP" : 50,
+"Evolutions" : [
+
+],
+"Special Defence" : 110,
+"Number" : 106,
+"Speed" : 87
+},
+"Ivysaur" : {
+"Defence" : 63,
+"Attack" : 62,
+"Special Attack" : 80,
+"HP" : 60,
+"Evolutions" : [
+"Venusaur"
+],
+"Special Defence" : 80,
+"Number" : 2,
+"Speed" : 60
+},
+"Horsea" : {
+"Defence" : 70,
+"Attack" : 40,
+"Special Attack" : 70,
+"HP" : 30,
+"Evolutions" : [
+"Seadra"
+],
+"Special Defence" : 25,
+"Number" : 116,
+"Speed" : 60
+},
+"Bayleef" : {
+"Defence" : 80,
+"Attack" : 62,
+"Special Attack" : 63,
+"HP" : 60,
+"Evolutions" : [
+"Meganium"
+],
+"Special Defence" : 80,
+"Number" : 153,
+"Speed" : 60
+},
+"Slowbro" : {
+"Defence" : 110,
+"Attack" : 75,
+"Special Attack" : 100,
+"HP" : 95,
+"Evolutions" : [
+
+],
+"Special Defence" : 80,
+"Number" : 80,
+"Speed" : 30
+},
+"Gligar" : {
+"Defence" : 105,
+"Attack" : 75,
+"Special Attack" : 35,
+"HP" : 65,
+"Evolutions" : [
+
+],
+"Special Defence" : 65,
+"Number" : 207,
+"Speed" : 85
+},
+"Rattata" : {
+"Defence" : 35,
+"Attack" : 56,
+"Special Attack" : 25,
+"HP" : 30,
+"Evolutions" : [
+"Raticate"
+],
+"Special Defence" : 35,
+"Number" : 19,
+"Speed" : 72
+},
+"Kingler" : {
+"Defence" : 115,
+"Attack" : 130,
+"Special Attack" : 50,
+"HP" : 55,
+"Evolutions" : [
+
+],
+"Special Defence" : 50,
+"Number" : 99,
+"Speed" : 75
+},
+"Omastar" : {
+"Defence" : 125,
+"Attack" : 60,
+"Special Attack" : 115,
+"HP" : 70,
+"Evolutions" : [
+
+],
+"Special Defence" : 70,
+"Number" : 139,
+"Speed" : 55
+},
+"Pinsir" : {
+"Defence" : 100,
+"Attack" : 125,
+"Special Attack" : 55,
+"HP" : 65,
+"Evolutions" : [
+
+],
+"Special Defence" : 70,
+"Number" : 127,
+"Speed" : 85
+},
+"Granbull" : {
+"Defence" : 75,
+"Attack" : 120,
+"Special Attack" : 60,
+"HP" : 90,
+"Evolutions" : [
+
+],
+"Special Defence" : 60,
+"Number" : 210,
+"Speed" : 45
+},
+"Rhydon" : {
+"Defence" : 120,
+"Attack" : 130,
+"Special Attack" : 45,
+"HP" : 105,
+"Evolutions" : [
+
+],
+"Special Defence" : 45,
+"Number" : 112,
+"Speed" : 40
+},
+"Dodrio" : {
+"Defence" : 70,
+"Attack" : 110,
+"Special Attack" : 60,
+"HP" : 60,
+"Evolutions" : [
+
+],
+"Special Defence" : 60,
+"Number" : 85,
+"Speed" : 100
+},
+"Onix" : {
+"Defence" : 160,
+"Attack" : 45,
+"Special Attack" : 30,
+"HP" : 35,
+"Evolutions" : [
+"Steelix"
+],
+"Special Defence" : 45,
+"Number" : 95,
+"Speed" : 70
+},
+"Aipom" : {
+"Defence" : 55,
+"Attack" : 70,
+"Special Attack" : 40,
+"HP" : 55,
+"Evolutions" : [
+
+],
+"Special Defence" : 55,
+"Number" : 190,
+"Speed" : 85
+},
+"Shuckle" : {
+"Defence" : 230,
+"Attack" : 10,
+"Special Attack" : 10,
+"HP" : 20,
+"Evolutions" : [
+
+],
+"Special Defence" : 230,
+"Number" : 213,
+"Speed" : 5
+},
+"Ditto" : {
+"Defence" : 48,
+"Attack" : 48,
+"Special Attack" : 48,
+"HP" : 48,
+"Evolutions" : [
+
+],
+"Special Defence" : 48,
+"Number" : 132,
+"Speed" : 48
+},
+"Kabuto" : {
+"Defence" : 90,
+"Attack" : 80,
+"Special Attack" : 55,
+"HP" : 30,
+"Evolutions" : [
+"Kabutops"
+],
+"Special Defence" : 45,
+"Number" : 140,
+"Speed" : 55
+},
+"Ampharos" : {
+"Defence" : 85,
+"Attack" : 75,
+"Special Attack" : 115,
+"HP" : 90,
+"Evolutions" : [
+
+],
+"Special Defence" : 90,
+"Number" : 181,
+"Speed" : 55
+},
+"Hoppip" : {
+"Defence" : 40,
+"Attack" : 35,
+"Special Attack" : 35,
+"HP" : 35,
+"Evolutions" : [
+"Skiploom"
+],
+"Special Defence" : 55,
+"Number" : 187,
+"Speed" : 50
+},
+"Raikou" : {
+"Defence" : 75,
+"Attack" : 85,
+"Special Attack" : 115,
+"HP" : 90,
+"Evolutions" : [
+
+],
+"Special Defence" : 100,
+"Number" : 243,
+"Speed" : 115
+},
+"Steelix" : {
+"Defence" : 200,
+"Attack" : 85,
+"Special Attack" : 55,
+"HP" : 75,
+"Evolutions" : [
+
+],
+"Special Defence" : 65,
+"Number" : 208,
+"Speed" : 30
+},
+"Donphan" : {
+"Defence" : 120,
+"Attack" : 120,
+"Special Attack" : 60,
+"HP" : 90,
+"Evolutions" : [
+
+],
+"Special Defence" : 60,
+"Number" : 232,
+"Speed" : 50
+},
+"Bulbasaur" : {
+"Defence" : 49,
+"Attack" : 49,
+"Special Attack" : 65,
+"HP" : 45,
+"Evolutions" : [
+"Ivysaur"
+],
+"Special Defence" : 65,
+"Number" : 1,
+"Speed" : 45
+},
+"Vileplume" : {
+"Defence" : 85,
+"Attack" : 80,
+"Special Attack" : 110,
+"HP" : 75,
+"Evolutions" : [
+
+],
+"Special Defence" : 90,
+"Number" : 45,
+"Speed" : 50
+},
+"Snorlax" : {
+"Defence" : 65,
+"Attack" : 110,
+"Special Attack" : 65,
+"HP" : 160,
+"Evolutions" : [
+
+],
+"Special Defence" : 110,
+"Number" : 143,
+"Speed" : 30
+},
+"Magmar" : {
+"Defence" : 57,
+"Attack" : 95,
+"Special Attack" : 100,
+"HP" : 65,
+"Evolutions" : [
+
+],
+"Special Defence" : 85,
+"Number" : 126,
+"Speed" : 93
+},
+"Electrode" : {
+"Defence" : 70,
+"Attack" : 50,
+"Special Attack" : 80,
+"HP" : 60,
+"Evolutions" : [
+
+],
+"Special Defence" : 80,
+"Number" : 101,
+"Speed" : 140
+},
+"Crobat" : {
+"Defence" : 80,
+"Attack" : 90,
+"Special Attack" : 70,
+"HP" : 85,
+"Evolutions" : [
+
+],
+"Special Defence" : 80,
+"Number" : 169,
+"Speed" : 130
+},
+"Spinarak" : {
+"Defence" : 40,
+"Attack" : 60,
+"Special Attack" : 40,
+"HP" : 40,
+"Evolutions" : [
+"Ariados"
+],
+"Special Defence" : 40,
+"Number" : 167,
+"Speed" : 30
+},
+"Gloom" : {
+"Defence" : 70,
+"Attack" : 65,
+"Special Attack" : 85,
+"HP" : 60,
+"Evolutions" : [
+"Bellossom",
+"Vileplume"
+],
+"Special Defence" : 75,
+"Number" : 44,
+"Speed" : 40
+},
+"Charmeleon" : {
+"Defence" : 58,
+"Attack" : 64,
+"Special Attack" : 80,
+"HP" : 58,
+"Evolutions" : [
+"Charizard"
+],
+"Special Defence" : 65,
+"Number" : 5,
+"Speed" : 80
+},
+"Koffing" : {
+"Defence" : 95,
+"Attack" : 65,
+"Special Attack" : 60,
+"HP" : 40,
+"Evolutions" : [
+"Weezing"
+],
+"Special Defence" : 45,
+"Number" : 109,
+"Speed" : 35
+},
+"Zapdos" : {
+"Defence" : 85,
+"Attack" : 90,
+"Special Attack" : 125,
+"HP" : 90,
+"Evolutions" : [
+
+],
+"Special Defence" : 90,
+"Number" : 145,
+"Speed" : 100
+},
+"Pichu" : {
+"Defence" : 15,
+"Attack" : 40,
+"Special Attack" : 35,
+"HP" : 20,
+"Evolutions" : [
+"Pikachu"
+],
+"Special Defence" : 35,
+"Number" : 172,
+"Speed" : 60
+},
+"Igglybuff" : {
+"Defence" : 15,
+"Attack" : 30,
+"Special Attack" : 40,
+"HP" : 90,
+"Evolutions" : [
+"Jigglypuff"
+],
+"Special Defence" : 20,
+"Number" : 174,
+"Speed" : 15
+},
+"Miltank" : {
+"Defence" : 105,
+"Attack" : 80,
+"Special Attack" : 40,
+"HP" : 95,
+"Evolutions" : [
+
+],
+"Special Defence" : 70,
+"Number" : 241,
+"Speed" : 100
+},
+"Kabutops" : {
+"Defence" : 105,
+"Attack" : 115,
+"Special Attack" : 65,
+"HP" : 60,
+"Evolutions" : [
+
+],
+"Special Defence" : 70,
+"Number" : 141,
+"Speed" : 80
+},
+"Houndoom" : {
+"Defence" : 50,
+"Attack" : 90,
+"Special Attack" : 110,
+"HP" : 75,
+"Evolutions" : [
+
+],
+"Special Defence" : 80,
+"Number" : 229,
+"Speed" : 95
+},
+"Togepi" : {
+"Defence" : 65,
+"Attack" : 20,
+"Special Attack" : 40,
+"HP" : 35,
+"Evolutions" : [
+"Togetic"
+],
+"Special Defence" : 65,
+"Number" : 175,
+"Speed" : 20
+},
+"Wigglytuff" : {
+"Defence" : 45,
+"Attack" : 70,
+"Special Attack" : 85,
+"HP" : 140,
+"Evolutions" : [
+
+],
+"Special Defence" : 50,
+"Number" : 40,
+"Speed" : 45
+},
+"Dratini" : {
+"Defence" : 45,
+"Attack" : 64,
+"Special Attack" : 50,
+"HP" : 41,
+"Evolutions" : [
+"Dragonair"
+],
+"Special Defence" : 50,
+"Number" : 147,
+"Speed" : 50
+},
+"Drowzee" : {
+"Defence" : 45,
+"Attack" : 48,
+"Special Attack" : 43,
+"HP" : 60,
+"Evolutions" : [
+"Hypno"
+],
+"Special Defence" : 90,
+"Number" : 96,
+"Speed" : 42
+},
+"Flaaffy" : {
+"Defence" : 55,
+"Attack" : 55,
+"Special Attack" : 80,
+"HP" : 70,
+"Evolutions" : [
+"Ampharos"
+],
+"Special Defence" : 60,
+"Number" : 180,
+"Speed" : 45
+},
+"Cyndaquil" : {
+"Defence" : 43,
+"Attack" : 52,
+"Special Attack" : 60,
+"HP" : 39,
+"Evolutions" : [
+"Quilava"
+],
+"Special Defence" : 50,
+"Number" : 155,
+"Speed" : 65
+},
+"Ledyba" : {
+"Defence" : 30,
+"Attack" : 20,
+"Special Attack" : 40,
+"HP" : 40,
+"Evolutions" : [
+"Ledian"
+],
+"Special Defence" : 80,
+"Number" : 165,
+"Speed" : 55
+},
+"Bellsprout" : {
+"Defence" : 35,
+"Attack" : 75,
+"Special Attack" : 70,
+"HP" : 50,
+"Evolutions" : [
+"Weepinbell"
+],
+"Special Defence" : 30,
+"Number" : 69,
+"Speed" : 40
+},
+"Geodude" : {
+"Defence" : 100,
+"Attack" : 80,
+"Special Attack" : 30,
+"HP" : 40,
+"Evolutions" : [
+"Graveler"
+],
+"Special Defence" : 30,
+"Number" : 74,
+"Speed" : 20
+},
+"Ariados" : {
+"Defence" : 70,
+"Attack" : 90,
+"Special Attack" : 60,
+"HP" : 70,
+"Evolutions" : [
+
+],
+"Special Defence" : 60,
+"Number" : 168,
+"Speed" : 40
+},
+"Yanma" : {
+"Defence" : 45,
+"Attack" : 65,
+"Special Attack" : 75,
+"HP" : 65,
+"Evolutions" : [
+
+],
+"Special Defence" : 45,
+"Number" : 193,
+"Speed" : 95
+},
+"Furret" : {
+"Defence" : 64,
+"Attack" : 76,
+"Special Attack" : 45,
+"HP" : 85,
+"Evolutions" : [
+
+],
+"Special Defence" : 55,
+"Number" : 162,
+"Speed" : 90
+},
+"Meganium" : {
+"Defence" : 100,
+"Attack" : 82,
+"Special Attack" : 83,
+"HP" : 80,
+"Evolutions" : [
+
+],
+"Special Defence" : 100,
+"Number" : 154,
+"Speed" : 80
+},
+"Murkrow" : {
+"Defence" : 42,
+"Attack" : 85,
+"Special Attack" : 85,
+"HP" : 60,
+"Evolutions" : [
+
+],
+"Special Defence" : 42,
+"Number" : 198,
+"Speed" : 91
+},
+"Kangaskhan" : {
+"Defence" : 80,
+"Attack" : 95,
+"Special Attack" : 40,
+"HP" : 105,
+"Evolutions" : [
+
+],
+"Special Defence" : 80,
+"Number" : 115,
+"Speed" : 90
+},
+"Victreebel" : {
+"Defence" : 65,
+"Attack" : 105,
+"Special Attack" : 100,
+"HP" : 80,
+"Evolutions" : [
+
+],
+"Special Defence" : 70,
+"Number" : 71,
+"Speed" : 70
+},
+"Raichu" : {
+"Defence" : 55,
+"Attack" : 90,
+"Special Attack" : 90,
+"HP" : 60,
+"Evolutions" : [
+
+],
+"Special Defence" : 80,
+"Number" : 26,
+"Speed" : 110
+},
+"Magneton" : {
+"Defence" : 95,
+"Attack" : 60,
+"Special Attack" : 120,
+"HP" : 50,
+"Evolutions" : [
+
+],
+"Special Defence" : 70,
+"Number" : 82,
+"Speed" : 70
+},
+"Dragonite" : {
+"Defence" : 95,
+"Attack" : 134,
+"Special Attack" : 100,
+"HP" : 91,
+"Evolutions" : [
+
+],
+"Special Defence" : 100,
+"Number" : 149,
+"Speed" : 80
+},
+"Sunkern" : {
+"Defence" : 30,
+"Attack" : 30,
+"Special Attack" : 30,
+"HP" : 30,
+"Evolutions" : [
+"Sunflora"
+],
+"Special Defence" : 30,
+"Number" : 191,
+"Speed" : 30
+},
+"Spearow" : {
+"Defence" : 30,
+"Attack" : 60,
+"Special Attack" : 31,
+"HP" : 40,
+"Evolutions" : [
+"Fearow"
+],
+"Special Defence" : 31,
+"Number" : 21,
+"Speed" : 70
+},
+"Hypno" : {
+"Defence" : 70,
+"Attack" : 73,
+"Special Attack" : 73,
+"HP" : 85,
+"Evolutions" : [
+
+],
+"Special Defence" : 115,
+"Number" : 97,
+"Speed" : 67
+},
+"Jynx" : {
+"Defence" : 35,
+"Attack" : 50,
+"Special Attack" : 115,
+"HP" : 65,
+"Evolutions" : [
+
+],
+"Special Defence" : 95,
+"Number" : 124,
+"Speed" : 95
+},
+"Corsola" : {
+"Defence" : 85,
+"Attack" : 55,
+"Special Attack" : 65,
+"HP" : 55,
+"Evolutions" : [
+
+],
+"Special Defence" : 85,
+"Number" : 222,
+"Speed" : 35
+},
+"Tentacool" : {
+"Defence" : 35,
+"Attack" : 40,
+"Special Attack" : 50,
+"HP" : 40,
+"Evolutions" : [
+"Tentacruel"
+],
+"Special Defence" : 100,
+"Number" : 72,
+"Speed" : 70
+},
+"Ninetales" : {
+"Defence" : 75,
+"Attack" : 76,
+"Special Attack" : 81,
+"HP" : 73,
+"Evolutions" : [
+
+],
+"Special Defence" : 100,
+"Number" : 38,
+"Speed" : 100
+},
+"Lapras" : {
+"Defence" : 80,
+"Attack" : 85,
+"Special Attack" : 85,
+"HP" : 130,
+"Evolutions" : [
+
+],
+"Special Defence" : 95,
+"Number" : 131,
+"Speed" : 60
+},
+"Azumarill" : {
+"Defence" : 80,
+"Attack" : 50,
+"Special Attack" : 60,
+"HP" : 100,
+"Evolutions" : [
+
+],
+"Special Defence" : 80,
+"Number" : 184,
+"Speed" : 50
+},
+"Pikachu" : {
+"Defence" : 40,
+"Attack" : 55,
+"Special Attack" : 50,
+"HP" : 35,
+"Evolutions" : [
+"Raichu"
+],
+"Special Defence" : 50,
+"Number" : 25,
+"Speed" : 90
+},
+"Exeggcute" : {
+"Defence" : 80,
+"Attack" : 40,
+"Special Attack" : 60,
+"HP" : 60,
+"Evolutions" : [
+"Exeggutor"
+],
+"Special Defence" : 45,
+"Number" : 102,
+"Speed" : 40
+},
+"Flareon" : {
+"Defence" : 60,
+"Attack" : 130,
+"Special Attack" : 95,
+"HP" : 65,
+"Evolutions" : [
+
+],
+"Special Defence" : 110,
+"Number" : 136,
+"Speed" : 65
+},
+"Farfetch'd" : {
+"Defence" : 55,
+"Attack" : 65,
+"Special Attack" : 58,
+"HP" : 52,
+"Evolutions" : [
+
+],
+"Special Defence" : 62,
+"Number" : 83,
+"Speed" : 60
+},
+"Sunflora" : {
+"Defence" : 55,
+"Attack" : 75,
+"Special Attack" : 105,
+"HP" : 75,
+"Evolutions" : [
+
+],
+"Special Defence" : 85,
+"Number" : 192,
+"Speed" : 30
+},
+"Meowth" : {
+"Defence" : 35,
+"Attack" : 45,
+"Special Attack" : 40,
+"HP" : 40,
+"Evolutions" : [
+"Persian"
+],
+"Special Defence" : 40,
+"Number" : 52,
+"Speed" : 90
+},
+"Oddish" : {
+"Defence" : 55,
+"Attack" : 50,
+"Special Attack" : 75,
+"HP" : 45,
+"Evolutions" : [
+"Gloom"
+],
+"Special Defence" : 65,
+"Number" : 43,
+"Speed" : 30
+},
+"Weedle" : {
+"Defence" : 30,
+"Attack" : 35,
+"Special Attack" : 20,
+"HP" : 40,
+"Evolutions" : [
+"Kakuna"
+],
+"Special Defence" : 20,
+"Number" : 13,
+"Speed" : 50
+},
+"Grimer" : {
+"Defence" : 50,
+"Attack" : 80,
+"Special Attack" : 40,
+"HP" : 80,
+"Evolutions" : [
+"Muk"
+],
+"Special Defence" : 50,
+"Number" : 88,
+"Speed" : 25
+},
+"Heracross" : {
+"Defence" : 75,
+"Attack" : 125,
+"Special Attack" : 40,
+"HP" : 80,
+"Evolutions" : [
+
+],
+"Special Defence" : 95,
+"Number" : 214,
+"Speed" : 85
+},
+"Seel" : {
+"Defence" : 55,
+"Attack" : 45,
+"Special Attack" : 45,
+"HP" : 65,
+"Evolutions" : [
+"Dewgong"
+],
+"Special Defence" : 70,
+"Number" : 86,
+"Speed" : 45
+},
+"Larvitar" : {
+"Defence" : 50,
+"Attack" : 64,
+"Special Attack" : 45,
+"HP" : 50,
+"Evolutions" : [
+"Pupitar"
+],
+"Special Defence" : 50,
+"Number" : 246,
+"Speed" : 41
+},
+"Eevee" : {
+"Defence" : 50,
+"Attack" : 55,
+"Special Attack" : 45,
+"HP" : 55,
+"Evolutions" : [
+"Espeon",
+"Umbreon",
+"Leafeon",
+"Glaceon",
+"Vaporeon",
+"Flareon",
+"Jolteon"
+],
+"Special Defence" : 65,
+"Number" : 133,
+"Speed" : 55
+},
+"Alakazam" : {
+"Defence" : 45,
+"Attack" : 50,
+"Special Attack" : 135,
+"HP" : 55,
+"Evolutions" : [
+
+],
+"Special Defence" : 95,
+"Number" : 65,
+"Speed" : 120
+},
+"Tyrogue" : {
+"Defence" : 35,
+"Attack" : 35,
+"Special Attack" : 35,
+"HP" : 35,
+"Evolutions" : [
+"Hitmonchan",
+"Hitmonlee",
+"Hitmontop"
+],
+"Special Defence" : 35,
+"Number" : 236,
+"Speed" : 35
+},
+"Persian" : {
+"Defence" : 60,
+"Attack" : 70,
+"Special Attack" : 65,
+"HP" : 65,
+"Evolutions" : [
+
+],
+"Special Defence" : 65,
+"Number" : 53,
+"Speed" : 115
+},
+"Delibird" : {
+"Defence" : 45,
+"Attack" : 55,
+"Special Attack" : 65,
+"HP" : 45,
+"Evolutions" : [
+
+],
+"Special Defence" : 45,
+"Number" : 225,
+"Speed" : 75
+},
+"Machop" : {
+"Defence" : 50,
+"Attack" : 80,
+"Special Attack" : 35,
+"HP" : 70,
+"Evolutions" : [
+"Machoke"
+],
+"Special Defence" : 35,
+"Number" : 66,
+"Speed" : 35
+},
+"Suicune" : {
+"Defence" : 115,
+"Attack" : 75,
+"Special Attack" : 90,
+"HP" : 100,
+"Evolutions" : [
+
+],
+"Special Defence" : 115,
+"Number" : 245,
+"Speed" : 85
+},
+"Tangela" : {
+"Defence" : 115,
+"Attack" : 55,
+"Special Attack" : 100,
+"HP" : 65,
+"Evolutions" : [
+
+],
+"Special Defence" : 40,
+"Number" : 114,
+"Speed" : 60
+},
+"Nidoran♂" : {
+"Defence" : 40,
+"Attack" : 57,
+"Special Attack" : 40,
+"HP" : 46,
+"Evolutions" : [
+"Nidorino"
+],
+"Special Defence" : 40,
+"Number" : 32,
+"Speed" : 50
+},
+"Phione" : {
+"Defence" : 80,
+"Attack" : 80,
+"Special Attack" : 80,
+"HP" : 80,
+"Evolutions" : [
+
+],
+"Special Defence" : 80,
+"Number" : 489,
+"Speed" : 80
+},
+"Unown" : {
+"Defence" : 48,
+"Attack" : 72,
+"Special Attack" : 72,
+"HP" : 48,
+"Evolutions" : [
+
+],
+"Special Defence" : 48,
+"Number" : 201,
+"Speed" : 48
+},
+"Electabuzz" : {
+"Defence" : 57,
+"Attack" : 83,
+"Special Attack" : 95,
+"HP" : 65,
+"Evolutions" : [
+
+],
+"Special Defence" : 85,
+"Number" : 125,
+"Speed" : 105
+},
+"Vulpix" : {
+"Defence" : 40,
+"Attack" : 41,
+"Special Attack" : 50,
+"HP" : 38,
+"Evolutions" : [
+"Ninetales"
+],
+"Special Defence" : 65,
+"Number" : 37,
+"Speed" : 65
+},
+"Arcanine" : {
+"Defence" : 80,
+"Attack" : 110,
+"Special Attack" : 100,
+"HP" : 90,
+"Evolutions" : [
+
+],
+"Special Defence" : 80,
+"Number" : 59,
+"Speed" : 95
+},
+"Umbreon" : {
+"Defence" : 110,
+"Attack" : 65,
+"Special Attack" : 60,
+"HP" : 95,
+"Evolutions" : [
+
+],
+"Special Defence" : 130,
+"Number" : 197,
+"Speed" : 65
+},
+"Abra" : {
+"Defence" : 15,
+"Attack" : 20,
+"Special Attack" : 105,
+"HP" : 25,
+"Evolutions" : [
+"Kadabra"
+],
+"Special Defence" : 55,
+"Number" : 63,
+"Speed" : 90
+},
+"Dragonair" : {
+"Defence" : 65,
+"Attack" : 84,
+"Special Attack" : 70,
+"HP" : 61,
+"Evolutions" : [
+"Dragonite"
+],
+"Special Defence" : 70,
+"Number" : 148,
+"Speed" : 70
+},
+"Quagsire" : {
+"Defence" : 85,
+"Attack" : 85,
+"Special Attack" : 65,
+"HP" : 95,
+"Evolutions" : [
+
+],
+"Special Defence" : 65,
+"Number" : 195,
+"Speed" : 35
+},
+"Exeggutor" : {
+"Defence" : 85,
+"Attack" : 95,
+"Special Attack" : 125,
+"HP" : 95,
+"Evolutions" : [
+
+],
+"Special Defence" : 65,
+"Number" : 103,
+"Speed" : 55
+},
+"Ponyta" : {
+"Defence" : 55,
+"Attack" : 85,
+"Special Attack" : 65,
+"HP" : 50,
+"Evolutions" : [
+"Rapidash"
+],
+"Special Defence" : 65,
+"Number" : 77,
+"Speed" : 90
+},
+"Gyarados" : {
+"Defence" : 79,
+"Attack" : 125,
+"Special Attack" : 60,
+"HP" : 95,
+"Evolutions" : [
+
+],
+"Special Defence" : 100,
+"Number" : 130,
+"Speed" : 81
+},
+"Qwilfish" : {
+"Defence" : 75,
+"Attack" : 95,
+"Special Attack" : 55,
+"HP" : 65,
+"Evolutions" : [
+
+],
+"Special Defence" : 55,
+"Number" : 211,
+"Speed" : 85
+},
+"Politoed" : {
+"Defence" : 75,
+"Attack" : 75,
+"Special Attack" : 90,
+"HP" : 90,
+"Evolutions" : [
+
+],
+"Special Defence" : 100,
+"Number" : 186,
+"Speed" : 70
+},
+"Pineco" : {
+"Defence" : 90,
+"Attack" : 65,
+"Special Attack" : 35,
+"HP" : 50,
+"Evolutions" : [
+"Forretress"
+],
+"Special Defence" : 35,
+"Number" : 204,
+"Speed" : 15
+},
+"Nidoqueen" : {
+"Defence" : 87,
+"Attack" : 92,
+"Special Attack" : 75,
+"HP" : 90,
+"Evolutions" : [
+
+],
+"Special Defence" : 85,
+"Number" : 31,
+"Speed" : 76
+},
+"Octillery" : {
+"Defence" : 75,
+"Attack" : 105,
+"Special Attack" : 105,
+"HP" : 75,
+"Evolutions" : [
+
+],
+"Special Defence" : 75,
+"Number" : 224,
+"Speed" : 45
+},
+"Togetic" : {
+"Defence" : 85,
+"Attack" : 40,
+"Special Attack" : 80,
+"HP" : 55,
+"Evolutions" : [
+
+],
+"Special Defence" : 105,
+"Number" : 176,
+"Speed" : 40
+},
+"Paras" : {
+"Defence" : 55,
+"Attack" : 70,
+"Special Attack" : 45,
+"HP" : 35,
+"Evolutions" : [
+"Parasect"
+],
+"Special Defence" : 55,
+"Number" : 46,
+"Speed" : 25
+},
+"Mew" : {
+"Defence" : 100,
+"Attack" : 100,
+"Special Attack" : 100,
+"HP" : 100,
+"Evolutions" : [
+
+],
+"Special Defence" : 100,
+"Number" : 151,
+"Speed" : 100
+},
+"Swinub" : {
+"Defence" : 40,
+"Attack" : 50,
+"Special Attack" : 30,
+"HP" : 50,
+"Evolutions" : [
+"Piloswine"
+],
+"Special Defence" : 30,
+"Number" : 220,
+"Speed" : 50
+},
+"Sudowoodo" : {
+"Defence" : 115,
+"Attack" : 100,
+"Special Attack" : 30,
+"HP" : 70,
+"Evolutions" : [
+
+],
+"Special Defence" : 65,
+"Number" : 185,
+"Speed" : 30
+},
+"Lampent" : {
+"Defence" : 60,
+"Attack" : 40,
+"Special Attack" : 95,
+"HP" : 60,
+"Evolutions" : [
+"Chandelure"
+],
+"Special Defence" : 60,
+"Number" : 608,
+"Speed" : 55
+},
+"Slowking" : {
+"Defence" : 80,
+"Attack" : 75,
+"Special Attack" : 100,
+"HP" : 95,
+"Evolutions" : [
+
+],
+"Special Defence" : 110,
+"Number" : 199,
+"Speed" : 30
+},
+"Vaporeon" : {
+"Defence" : 60,
+"Attack" : 65,
+"Special Attack" : 110,
+"HP" : 130,
+"Evolutions" : [
+
+],
+"Special Defence" : 95,
+"Number" : 134,
+"Speed" : 65
+},
+"Starmie" : {
+"Defence" : 85,
+"Attack" : 75,
+"Special Attack" : 100,
+"HP" : 60,
+"Evolutions" : [
+
+],
+"Special Defence" : 85,
+"Number" : 121,
+"Speed" : 115
+},
+"Doduo" : {
+"Defence" : 45,
+"Attack" : 85,
+"Special Attack" : 35,
+"HP" : 35,
+"Evolutions" : [
+"Dodrio"
+],
+"Special Defence" : 35,
+"Number" : 84,
+"Speed" : 75
+},
+"Leafeon" : {
+"Defence" : 130,
+"Attack" : 110,
+"Special Attack" : 60,
+"HP" : 65,
+"Evolutions" : [
+
+],
+"Special Defence" : 65,
+"Number" : 470,
+"Speed" : 95
+},
+"Marowak" : {
+"Defence" : 110,
+"Attack" : 80,
+"Special Attack" : 50,
+"HP" : 60,
+"Evolutions" : [
+
+],
+"Special Defence" : 80,
+"Number" : 105,
+"Speed" : 45
+},
+"Chikorita" : {
+"Defence" : 65,
+"Attack" : 49,
+"Special Attack" : 49,
+"HP" : 45,
+"Evolutions" : [
+"Bayleef"
+],
+"Special Defence" : 65,
+"Number" : 152,
+"Speed" : 45
+},
+"Beedrill" : {
+"Defence" : 40,
+"Attack" : 90,
+"Special Attack" : 45,
+"HP" : 65,
+"Evolutions" : [
+
+],
+"Special Defence" : 80,
+"Number" : 15,
+"Speed" : 75
+},
+"Primeape" : {
+"Defence" : 60,
+"Attack" : 105,
+"Special Attack" : 60,
+"HP" : 65,
+"Evolutions" : [
+
+],
+"Special Defence" : 70,
+"Number" : 57,
+"Speed" : 95
+},
+"Nidorina" : {
+"Defence" : 67,
+"Attack" : 62,
+"Special Attack" : 55,
+"HP" : 70,
+"Evolutions" : [
+"Nidoqueen"
+],
+"Special Defence" : 55,
+"Number" : 30,
+"Speed" : 56
+},
+"Venusaur" : {
+"Defence" : 83,
+"Attack" : 82,
+"Special Attack" : 100,
+"HP" : 80,
+"Evolutions" : [
+
+],
+"Special Defence" : 100,
+"Number" : 3,
+"Speed" : 80
+},
+"Krabby" : {
+"Defence" : 90,
+"Attack" : 105,
+"Special Attack" : 25,
+"HP" : 30,
+"Evolutions" : [
+"Kingler"
+],
+"Special Defence" : 25,
+"Number" : 98,
+"Speed" : 50
+},
+"Quilava" : {
+"Defence" : 58,
+"Attack" : 64,
+"Special Attack" : 80,
+"HP" : 58,
+"Evolutions" : [
+"Typhlosion"
+],
+"Special Defence" : 65,
+"Number" : 156,
+"Speed" : 80
+},
+"Blastoise" : {
+"Defence" : 100,
+"Attack" : 83,
+"Special Attack" : 85,
+"HP" : 79,
+"Evolutions" : [
+
+],
+"Special Defence" : 105,
+"Number" : 9,
+"Speed" : 78
+},
+"Rapidash" : {
+"Defence" : 70,
+"Attack" : 100,
+"Special Attack" : 80,
+"HP" : 65,
+"Evolutions" : [
+
+],
+"Special Defence" : 80,
+"Number" : 78,
+"Speed" : 105
+},
+"Pupitar" : {
+"Defence" : 70,
+"Attack" : 84,
+"Special Attack" : 65,
+"HP" : 70,
+"Evolutions" : [
+"Tyranitar"
+],
+"Special Defence" : 70,
+"Number" : 247,
+"Speed" : 51
+},
+"Goldeen" : {
+"Defence" : 60,
+"Attack" : 67,
+"Special Attack" : 35,
+"HP" : 45,
+"Evolutions" : [
+"Seaking"
+],
+"Special Defence" : 50,
+"Number" : 118,
+"Speed" : 63
+},
+"Pidgeot" : {
+"Defence" : 75,
+"Attack" : 80,
+"Special Attack" : 70,
+"HP" : 83,
+"Evolutions" : [
+
+],
+"Special Defence" : 70,
+"Number" : 18,
+"Speed" : 10
+},
+"Arbok" : {
+"Defence" : 69,
+"Attack" : 85,
+"Special Attack" : 65,
+"HP" : 60,
+"Evolutions" : [
+
+],
+"Special Defence" : 79,
+"Number" : 24,
+"Speed" : 80
+},
+"Clefable" : {
+"Defence" : 73,
+"Attack" : 70,
+"Special Attack" : 95,
+"HP" : 95,
+"Evolutions" : [
+
+],
+"Special Defence" : 90,
+"Number" : 36,
+"Speed" : 60
+},
+"Smeargle" : {
+"Defence" : 35,
+"Attack" : 20,
+"Special Attack" : 20,
+"HP" : 55,
+"Evolutions" : [
+
+],
+"Special Defence" : 45,
+"Number" : 235,
+"Speed" : 75
+},
+"Slugma" : {
+"Defence" : 40,
+"Attack" : 40,
+"Special Attack" : 70,
+"HP" : 40,
+"Evolutions" : [
+"Magcargo"
+],
+"Special Defence" : 40,
+"Number" : 218,
+"Speed" : 20
+},
+"Girafarig" : {
+"Defence" : 65,
+"Attack" : 80,
+"Special Attack" : 90,
+"HP" : 70,
+"Evolutions" : [
+
+],
+"Special Defence" : 65,
+"Number" : 203,
+"Speed" : 85
+},
+"Stantler" : {
+"Defence" : 62,
+"Attack" : 95,
+"Special Attack" : 85,
+"HP" : 73,
+"Evolutions" : [
+
+],
+"Special Defence" : 65,
+"Number" : 234,
+"Speed" : 85
+},
+"Magcargo" : {
+"Defence" : 120,
+"Attack" : 50,
+"Special Attack" : 80,
+"HP" : 50,
+"Evolutions" : [
+
+],
+"Special Defence" : 80,
+"Number" : 219,
+"Speed" : 30
+},
+"Diglett" : {
+"Defence" : 25,
+"Attack" : 55,
+"Special Attack" : 35,
+"HP" : 10,
+"Evolutions" : [
+"Dugtrio"
+],
+"Special Defence" : 45,
+"Number" : 50,
+"Speed" : 95
+},
+"Kadabra" : {
+"Defence" : 30,
+"Attack" : 35,
+"Special Attack" : 120,
+"HP" : 40,
+"Evolutions" : [
+"Alakazam"
+],
+"Special Defence" : 70,
+"Number" : 64,
+"Speed" : 105
+},
+"Natu" : {
+"Defence" : 45,
+"Attack" : 50,
+"Special Attack" : 70,
+"HP" : 40,
+"Evolutions" : [
+"Xatu"
+],
+"Special Defence" : 45,
+"Number" : 177,
+"Speed" : 70
+},
+"Hoothoot" : {
+"Defence" : 30,
+"Attack" : 30,
+"Special Attack" : 36,
+"HP" : 60,
+"Evolutions" : [
+"Noctowl"
+],
+"Special Defence" : 56,
+"Number" : 163,
+"Speed" : 50
+},
+"Skarmory" : {
+"Defence" : 140,
+"Attack" : 80,
+"Special Attack" : 40,
+"HP" : 65,
+"Evolutions" : [
+
+],
+"Special Defence" : 70,
+"Number" : 227,
+"Speed" : 70
+},
+"Noctowl" : {
+"Defence" : 50,
+"Attack" : 50,
+"Special Attack" : 76,
+"HP" : 100,
+"Evolutions" : [
+
+],
+"Special Defence" : 96,
+"Number" : 164,
+"Speed" : 70
+},
+"Mewtwo" : {
+"Defence" : 90,
+"Attack" : 110,
+"Special Attack" : 154,
+"HP" : 106,
+"Evolutions" : [
+
+],
+"Special Defence" : 90,
+"Number" : 150,
+"Speed" : 130
+},
+"Magby" : {
+"Defence" : 37,
+"Attack" : 75,
+"Special Attack" : 70,
+"HP" : 45,
+"Evolutions" : [
+"Magmar"
+],
+"Special Defence" : 55,
+"Number" : 240,
+"Speed" : 83
+},
+"Mankey" : {
+"Defence" : 35,
+"Attack" : 80,
+"Special Attack" : 35,
+"HP" : 40,
+"Evolutions" : [
+"Primeape"
+],
+"Special Defence" : 45,
+"Number" : 56,
+"Speed" : 70
+},
+"Golem" : {
+"Defence" : 130,
+"Attack" : 120,
+"Special Attack" : 55,
+"HP" : 80,
+"Evolutions" : [
+
+],
+"Special Defence" : 65,
+"Number" : 76,
+"Speed" : 45
+},
+"Graveler" : {
+"Defence" : 115,
+"Attack" : 95,
+"Special Attack" : 45,
+"HP" : 55,
+"Evolutions" : [
+"Golem"
+],
+"Special Defence" : 45,
+"Number" : 75,
+"Speed" : 35
+},
+"Tauros" : {
+"Defence" : 95,
+"Attack" : 100,
+"Special Attack" : 40,
+"HP" : 75,
+"Evolutions" : [
+
+],
+"Special Defence" : 70,
+"Number" : 128,
+"Speed" : 110
+},
+"Omanyte" : {
+"Defence" : 100,
+"Attack" : 40,
+"Special Attack" : 90,
+"HP" : 35,
+"Evolutions" : [
+"Omastar"
+],
+"Special Defence" : 55,
+"Number" : 138,
+"Speed" : 35
+},
+"Scizor" : {
+"Defence" : 100,
+"Attack" : 130,
+"Special Attack" : 55,
+"HP" : 70,
+"Evolutions" : [
+
+],
+"Special Defence" : 80,
+"Number" : 212,
+"Speed" : 65
+},
+"Bellossom" : {
+"Defence" : 95,
+"Attack" : 80,
+"Special Attack" : 90,
+"HP" : 75,
+"Evolutions" : [
+
+],
+"Special Defence" : 100,
+"Number" : 182,
+"Speed" : 50
+},
+"Nidoran♀" : {
+"Defence" : 52,
+"Attack" : 47,
+"Special Attack" : 40,
+"HP" : 55,
+"Evolutions" : [
+"Nidorina"
+],
+"Special Defence" : 40,
+"Number" : 29,
+"Speed" : 41
+},
+"Dunsparce" : {
+"Defence" : 70,
+"Attack" : 70,
+"Special Attack" : 65,
+"HP" : 100,
+"Evolutions" : [
+
+],
+"Special Defence" : 65,
+"Number" : 206,
+"Speed" : 45
+},
+"Rhyhorn" : {
+"Defence" : 95,
+"Attack" : 85,
+"Special Attack" : 30,
+"HP" : 80,
+"Evolutions" : [
+"Rhydon"
+],
+"Special Defence" : 30,
+"Number" : 111,
+"Speed" : 25
+},
+"Ledian" : {
+"Defence" : 50,
+"Attack" : 35,
+"Special Attack" : 55,
+"HP" : 55,
+"Evolutions" : [
+
+],
+"Special Defence" : 110,
+"Number" : 166,
+"Speed" : 85
+},
+"Marill" : {
+"Defence" : 50,
+"Attack" : 20,
+"Special Attack" : 20,
+"HP" : 70,
+"Evolutions" : [
+"Azumarill"
+],
+"Special Defence" : 50,
+"Number" : 183,
+"Speed" : 40
+},
+"Sandshrew" : {
+"Defence" : 85,
+"Attack" : 75,
+"Special Attack" : 20,
+"HP" : 50,
+"Evolutions" : [
+"Sandslash"
+],
+"Special Defence" : 30,
+"Number" : 27,
+"Speed" : 40
+},
+"Kakuna" : {
+"Defence" : 50,
+"Attack" : 25,
+"Special Attack" : 25,
+"HP" : 45,
+"Evolutions" : [
+"Beedrill"
+],
+"Special Defence" : 25,
+"Number" : 14,
+"Speed" : 35
+}
+}
