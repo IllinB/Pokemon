@@ -74,6 +74,7 @@ class SearchDetailsViewController: UIViewController, UITextFieldDelegate {
             print("Pokemon is nil")
             createButton.isEnabled = false
             createButton.titleLabel?.textColor = UIColor.gray
+            print(createButton.titleLabel?.text)
         } else {
             createButton.isEnabled = true
             createButton.titleLabel?.textColor = UIColor.red
