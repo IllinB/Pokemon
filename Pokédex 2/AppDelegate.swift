@@ -8,6 +8,7 @@
 
 import UIKit
 import CoreData
+import HockeySDK
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
@@ -16,6 +17,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     var dataManager: PokemonDataManager?
     
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey : Any]? = nil) -> Bool {
+        
+        print("Booplesnoot!")
         
         dataManager = PokemonDataManager.init()
         UITabBar.appearance().barTintColor = UIColor.red
@@ -43,6 +46,10 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         searchDetailView.navigationItem.leftBarButtonItem = searchSplitViewController.displayModeButtonItem
         storedDetailView.navigationItem.leftItemsSupplementBackButton = true
         storedDetailView.navigationItem.leftBarButtonItem = storedSplitViewController.displayModeButtonItem
+        
+        BITHockeyManager.shared().configure(withIdentifier: "APP_IDENTIFIER")
+        BITHockeyManager.shared().start()
+        BITHockeyManager.shared().authenticator.authenticateInstallation()
         
         return true
     }

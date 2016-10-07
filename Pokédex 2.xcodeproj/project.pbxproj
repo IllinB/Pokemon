@@ -276,6 +276,16 @@
 		16608AB31D95BB960031A465 /* StoredCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16608AB21D95BB960031A465 /* StoredCollectionViewController.swift */; };
 		16608AB51D95BBAE0031A465 /* StoredDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16608AB41D95BBAE0031A465 /* StoredDetailViewController.swift */; };
 		16608AB71D95C4190031A465 /* PokemonCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16608AB61D95C4190031A465 /* PokemonCollectionViewCell.swift */; };
+		1684D3651DA8236600E78D5F /* CHANGELOG in Resources */ = {isa = PBXBuildFile; fileRef = 1684D3561DA8236600E78D5F /* CHANGELOG */; };
+		1684D3661DA8236600E78D5F /* de.bitstadium.HockeySDK-iOS-4.1.2.docset in Resources */ = {isa = PBXBuildFile; fileRef = 1684D3571DA8236600E78D5F /* de.bitstadium.HockeySDK-iOS-4.1.2.docset */; };
+		1684D3671DA8236600E78D5F /* HockeySDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1684D3591DA8236600E78D5F /* HockeySDK.framework */; };
+		1684D3681DA8236600E78D5F /* HockeySDKResources.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 1684D35A1DA8236600E78D5F /* HockeySDKResources.bundle */; };
+		1684D3691DA8236600E78D5F /* HockeySDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1684D35D1DA8236600E78D5F /* HockeySDK.framework */; };
+		1684D36A1DA8236600E78D5F /* HockeySDKResources.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 1684D35E1DA8236600E78D5F /* HockeySDKResources.bundle */; };
+		1684D36B1DA8236600E78D5F /* HockeySDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1684D3601DA8236600E78D5F /* HockeySDK.framework */; };
+		1684D36C1DA8236600E78D5F /* HockeySDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1684D3621DA8236600E78D5F /* HockeySDK.framework */; };
+		1684D36D1DA8236600E78D5F /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 1684D3631DA8236600E78D5F /* LICENSE */; };
+		1684D36E1DA8236600E78D5F /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 1684D3641DA8236600E78D5F /* README.md */; };
 		1693A0B81D802022002CF824 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1693A0B71D802022002CF824 /* AppDelegate.swift */; };
 		1693A0BD1D802022002CF824 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1693A0BB1D802022002CF824 /* Main.storyboard */; };
 		1693A0C01D802022002CF824 /* Poke_dex_2.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 1693A0BE1D802022002CF824 /* Poke_dex_2.xcdatamodeld */; };
@@ -573,6 +583,16 @@
 		16608AB21D95BB960031A465 /* StoredCollectionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StoredCollectionViewController.swift; sourceTree = "<group>"; };
 		16608AB41D95BBAE0031A465 /* StoredDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StoredDetailViewController.swift; sourceTree = "<group>"; };
 		16608AB61D95C4190031A465 /* PokemonCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PokemonCollectionViewCell.swift; sourceTree = "<group>"; };
+		1684D3561DA8236600E78D5F /* CHANGELOG */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CHANGELOG; sourceTree = "<group>"; };
+		1684D3571DA8236600E78D5F /* de.bitstadium.HockeySDK-iOS-4.1.2.docset */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = "de.bitstadium.HockeySDK-iOS-4.1.2.docset"; sourceTree = "<group>"; };
+		1684D3591DA8236600E78D5F /* HockeySDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = HockeySDK.framework; sourceTree = "<group>"; };
+		1684D35A1DA8236600E78D5F /* HockeySDKResources.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = HockeySDKResources.bundle; sourceTree = "<group>"; };
+		1684D35D1DA8236600E78D5F /* HockeySDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = HockeySDK.framework; sourceTree = "<group>"; };
+		1684D35E1DA8236600E78D5F /* HockeySDKResources.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = HockeySDKResources.bundle; sourceTree = "<group>"; };
+		1684D3601DA8236600E78D5F /* HockeySDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = HockeySDK.framework; sourceTree = "<group>"; };
+		1684D3621DA8236600E78D5F /* HockeySDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = HockeySDK.framework; sourceTree = "<group>"; };
+		1684D3631DA8236600E78D5F /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		1684D3641DA8236600E78D5F /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		1693A0B41D802022002CF824 /* Pokédex 2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Pokédex 2.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1693A0B71D802022002CF824 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1693A0BC1D802022002CF824 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -594,6 +614,10 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1684D36C1DA8236600E78D5F /* HockeySDK.framework in Frameworks */,
+				1684D3691DA8236600E78D5F /* HockeySDK.framework in Frameworks */,
+				1684D3671DA8236600E78D5F /* HockeySDK.framework in Frameworks */,
+				1684D36B1DA8236600E78D5F /* HockeySDK.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -882,6 +906,63 @@
 			path = PokemonImages;
 			sourceTree = "<group>";
 		};
+		1684D3551DA8236600E78D5F /* HockeySDK-iOS */ = {
+			isa = PBXGroup;
+			children = (
+				1684D3561DA8236600E78D5F /* CHANGELOG */,
+				1684D3571DA8236600E78D5F /* de.bitstadium.HockeySDK-iOS-4.1.2.docset */,
+				1684D3581DA8236600E78D5F /* HockeySDK.embeddedframework */,
+				1684D35B1DA8236600E78D5F /* HockeySDKAllFeatures */,
+				1684D35F1DA8236600E78D5F /* HockeySDKCrashOnly */,
+				1684D3611DA8236600E78D5F /* HockeySDKCrashOnlyExtension */,
+				1684D3631DA8236600E78D5F /* LICENSE */,
+				1684D3641DA8236600E78D5F /* README.md */,
+			);
+			path = "HockeySDK-iOS";
+			sourceTree = "<group>";
+		};
+		1684D3581DA8236600E78D5F /* HockeySDK.embeddedframework */ = {
+			isa = PBXGroup;
+			children = (
+				1684D3591DA8236600E78D5F /* HockeySDK.framework */,
+				1684D35A1DA8236600E78D5F /* HockeySDKResources.bundle */,
+			);
+			path = HockeySDK.embeddedframework;
+			sourceTree = "<group>";
+		};
+		1684D35B1DA8236600E78D5F /* HockeySDKAllFeatures */ = {
+			isa = PBXGroup;
+			children = (
+				1684D35C1DA8236600E78D5F /* HockeySDK.embeddedframework */,
+			);
+			path = HockeySDKAllFeatures;
+			sourceTree = "<group>";
+		};
+		1684D35C1DA8236600E78D5F /* HockeySDK.embeddedframework */ = {
+			isa = PBXGroup;
+			children = (
+				1684D35D1DA8236600E78D5F /* HockeySDK.framework */,
+				1684D35E1DA8236600E78D5F /* HockeySDKResources.bundle */,
+			);
+			path = HockeySDK.embeddedframework;
+			sourceTree = "<group>";
+		};
+		1684D35F1DA8236600E78D5F /* HockeySDKCrashOnly */ = {
+			isa = PBXGroup;
+			children = (
+				1684D3601DA8236600E78D5F /* HockeySDK.framework */,
+			);
+			path = HockeySDKCrashOnly;
+			sourceTree = "<group>";
+		};
+		1684D3611DA8236600E78D5F /* HockeySDKCrashOnlyExtension */ = {
+			isa = PBXGroup;
+			children = (
+				1684D3621DA8236600E78D5F /* HockeySDK.framework */,
+			);
+			path = HockeySDKCrashOnlyExtension;
+			sourceTree = "<group>";
+		};
 		1693A0AB1D802021002CF824 = {
 			isa = PBXGroup;
 			children = (
@@ -889,6 +970,7 @@
 				1693A0CE1D802022002CF824 /* Pokédex 2Tests */,
 				1693A0D91D802022002CF824 /* Pokédex 2UITests */,
 				1693A0B51D802022002CF824 /* Products */,
+				1684D3551DA8236600E78D5F /* HockeySDK-iOS */,
 			);
 			sourceTree = "<group>";
 		};
@@ -1077,6 +1159,7 @@
 				16608AAD1D9582140031A465 /* 490MS.png in Resources */,
 				16608A071D9582140031A465 /* 091MS.png in Resources */,
 				166089DF1D9582140031A465 /* 051MS.png in Resources */,
+				1684D36A1DA8236600E78D5F /* HockeySDKResources.bundle in Resources */,
 				166089DA1D9582140031A465 /* 046MS.png in Resources */,
 				16608A741D9582140031A465 /* 198MS.png in Resources */,
 				16608A7D1D9582140031A465 /* 207MS.png in Resources */,
@@ -1205,6 +1288,7 @@
 				16608AB11D9582140031A465 /* 96-book.png in Resources */,
 				16608A611D9582140031A465 /* 180MS.png in Resources */,
 				166089F31D9582140031A465 /* 071MS.png in Resources */,
+				1684D3651DA8236600E78D5F /* CHANGELOG in Resources */,
 				166089C11D9582140031A465 /* 021MS.png in Resources */,
 				16608A2E1D9582140031A465 /* 130MS.png in Resources */,
 				166089E61D9582140031A465 /* 058MS.png in Resources */,
@@ -1258,6 +1342,7 @@
 				166089C81D9582140031A465 /* 028MS.png in Resources */,
 				16608A841D9582140031A465 /* 214MS.png in Resources */,
 				16608A181D9582140031A465 /* 108MS.png in Resources */,
+				1684D36D1DA8236600E78D5F /* LICENSE in Resources */,
 				16608AA21D9582140031A465 /* 244MS.png in Resources */,
 				1693A0BD1D802022002CF824 /* Main.storyboard in Resources */,
 				166089D01D9582140031A465 /* 036MS.png in Resources */,
@@ -1284,6 +1369,7 @@
 				16608A6E1D9582140031A465 /* 192MS.png in Resources */,
 				16608AA91D9582140031A465 /* 251MS.png in Resources */,
 				16608A3F1D9582140031A465 /* 147MS.png in Resources */,
+				1684D3681DA8236600E78D5F /* HockeySDKResources.bundle in Resources */,
 				166089E01D9582140031A465 /* 052MS.png in Resources */,
 				16608A821D9582140031A465 /* 212MS.png in Resources */,
 				16608A721D9582140031A465 /* 196MS.png in Resources */,
@@ -1314,6 +1400,7 @@
 				166089B91D9582140031A465 /* 013MS.png in Resources */,
 				166089EA1D9582140031A465 /* 062MS.png in Resources */,
 				166089C31D9582140031A465 /* 023MS.png in Resources */,
+				1684D3661DA8236600E78D5F /* de.bitstadium.HockeySDK-iOS-4.1.2.docset in Resources */,
 				166089CC1D9582140031A465 /* 032MS.png in Resources */,
 				166089DE1D9582140031A465 /* 050MS.png in Resources */,
 				16608A0F1D9582140031A465 /* 099MS.png in Resources */,
@@ -1354,6 +1441,7 @@
 				1660889E1D94230C0031A465 /* SearchTableViewController.swift in Sources */,
 				16608AB71D95C4190031A465 /* PokemonCollectionViewCell.swift in Sources */,
 				166088A21D956D1B0031A465 /* MasterSplitViewController.swift in Sources */,
+				1684D36E1DA8236600E78D5F /* README.md in Sources */,
 				16B2DAF91D9989B0002B1827 /* SearchDetailsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -1505,6 +1593,13 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = 5XVYBGQV58;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/HockeySDK-iOS/HockeySDK.embeddedframework",
+					"$(PROJECT_DIR)/HockeySDK-iOS/HockeySDKAllFeatures/HockeySDK.embeddedframework",
+					"$(PROJECT_DIR)/HockeySDK-iOS/HockeySDKCrashOnly",
+					"$(PROJECT_DIR)/HockeySDK-iOS/HockeySDKCrashOnlyExtension",
+				);
 				INFOPLIST_FILE = "Pokédex 2/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.bjp.Poke-dex-2";
@@ -1519,6 +1614,13 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = 5XVYBGQV58;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/HockeySDK-iOS/HockeySDK.embeddedframework",
+					"$(PROJECT_DIR)/HockeySDK-iOS/HockeySDKAllFeatures/HockeySDK.embeddedframework",
+					"$(PROJECT_DIR)/HockeySDK-iOS/HockeySDKCrashOnly",
+					"$(PROJECT_DIR)/HockeySDK-iOS/HockeySDKCrashOnlyExtension",
+				);
 				INFOPLIST_FILE = "Pokédex 2/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.bjp.Poke-dex-2";
