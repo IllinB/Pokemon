@@ -355,6 +355,7 @@
                         <outlet property="HPLabel" destination="bsV-LK-g6K" id="0WV-TT-9R6"/>
                         <outlet property="attackLabel" destination="i3n-Dm-mxA" id="LOo-E9-CJt"/>
                         <outlet property="attackModLabel" destination="pBG-77-8jZ" id="0y0-m9-gLj"/>
+                        <outlet property="createButton" destination="og1-cv-NqW" id="Kzn-Nl-7oK"/>
                         <outlet property="defenceLabel" destination="Z9D-Xr-MO4" id="Huf-rk-210"/>
                         <outlet property="defenceModLabel" destination="sa4-bs-yLa" id="BLi-If-2VH"/>
                         <outlet property="iconImageView" destination="UUm-bp-8S7" id="aqo-OT-PKb"/>

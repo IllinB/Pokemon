@@ -138,7 +138,9 @@ class StoredDetailViewController: UIViewController {
                 evolveButton.setTitleColor(UIColor.lightGray, for: UIControlState.normal)
             }
             levelUpButton.isEnabled = true
+            levelUpButton.titleLabel?.textColor = UIColor.red
             deleteButton.isEnabled = true
+            deleteButton.titleLabel?.textColor = UIColor.red
             
         } else {
             nameLabel.text = ""
@@ -156,8 +158,11 @@ class StoredDetailViewController: UIViewController {
             speedModLabel.text = ""
             image.image = nil
             evolveButton.isEnabled = false
+            evolveButton.titleLabel?.textColor = UIColor.gray
             levelUpButton.isEnabled = false
+            levelUpButton.titleLabel?.textColor = UIColor.gray
             deleteButton.isEnabled = false
+            deleteButton.titleLabel?.textColor = UIColor.gray
         }
     }
     

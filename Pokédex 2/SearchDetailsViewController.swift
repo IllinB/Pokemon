@@ -38,6 +38,7 @@ class SearchDetailsViewController: UIViewController, UITextFieldDelegate {
     @IBOutlet weak var specialAttackModLabel: UILabel!
     @IBOutlet weak var specialDefenceModLabel: UILabel!
     @IBOutlet weak var speedModLabel: UILabel!
+    @IBOutlet weak var createButton: UIButton!
     
     @IBAction func createButtonTapped(_ sender: AnyObject) {
         if pokemon != nil {
@@ -68,6 +69,15 @@ class SearchDetailsViewController: UIViewController, UITextFieldDelegate {
             name:NSNotification.Name.UITextFieldTextDidChange,
             object: nil
         )
+        
+        if pokemon == nil {
+            print("Pokemon is nil")
+            createButton.isEnabled = false
+            createButton.titleLabel?.textColor = UIColor.gray
+        } else {
+            createButton.isEnabled = true
+            createButton.titleLabel?.textColor = UIColor.red
+        }
     }
     
     override func viewWillAppear(_ animated: Bool) {
