@@ -294,6 +294,7 @@
 		1693A0D01D802022002CF824 /* Poke_dex_2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1693A0CF1D802022002CF824 /* Poke_dex_2Tests.swift */; };
 		1693A0DB1D802022002CF824 /* Poke_dex_2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1693A0DA1D802022002CF824 /* Poke_dex_2UITests.swift */; };
 		16B2DAF91D9989B0002B1827 /* SearchDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16B2DAF81D9989B0002B1827 /* SearchDetailsViewController.swift */; };
+		16B88B2B1DA845AD00302BD4 /* Pokedex.mobileprovision in Resources */ = {isa = PBXBuildFile; fileRef = 16B88B2A1DA845AD00302BD4 /* Pokedex.mobileprovision */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -607,6 +608,7 @@
 		1693A0DA1D802022002CF824 /* Poke_dex_2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Poke_dex_2UITests.swift; sourceTree = "<group>"; };
 		1693A0DC1D802022002CF824 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		16B2DAF81D9989B0002B1827 /* SearchDetailsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SearchDetailsViewController.swift; sourceTree = "<group>"; };
+		16B88B2A1DA845AD00302BD4 /* Pokedex.mobileprovision */ = {isa = PBXFileReference; lastKnownFileType = file; path = Pokedex.mobileprovision; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -966,6 +968,7 @@
 		1693A0AB1D802021002CF824 = {
 			isa = PBXGroup;
 			children = (
+				16B88B2A1DA845AD00302BD4 /* Pokedex.mobileprovision */,
 				1693A0B61D802022002CF824 /* Pokédex 2 */,
 				1693A0CE1D802022002CF824 /* Pokédex 2Tests */,
 				1693A0D91D802022002CF824 /* Pokédex 2UITests */,
@@ -1347,6 +1350,7 @@
 				1693A0BD1D802022002CF824 /* Main.storyboard in Resources */,
 				166089D01D9582140031A465 /* 036MS.png in Resources */,
 				166089EB1D9582140031A465 /* 063MS.png in Resources */,
+				16B88B2B1DA845AD00302BD4 /* Pokedex.mobileprovision in Resources */,
 				16608A921D9582140031A465 /* 228MS.png in Resources */,
 				16608A6A1D9582140031A465 /* 189MS.png in Resources */,
 				16608A491D9582140031A465 /* 157MS.png in Resources */,
@@ -1517,7 +1521,8 @@
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Paul Burford (JZAMWZX8BX)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -1565,7 +1570,8 @@
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Paul Burford (JZAMWZX8BX)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
@@ -1612,6 +1618,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = 5XVYBGQV58;
 				FRAMEWORK_SEARCH_PATHS = (
